@@ -99,7 +99,7 @@
 		<h2><center>Kickoff Simulations of Events</center></h2><p><iframe width="300" height="225" src="http://www.youtube.com/embed/KVlPowNLl4o" frameborder="0" allowfullscreen></iframe></p>
 	</section>
 	<section class="col mid">
-		<p></p>
+		<h2><center>Our Vision of Disaster Response (Year 2020)</center></h2><p><center><iframe width="300" height="169" src="http://www.youtube.com/embed/-3gnPp97jD8" frameborder="0" allowfullscreen></iframe></center></p>
 	</section>
 
 	<section class="col">

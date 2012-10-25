@@ -121,8 +121,36 @@
             </div>
         </div>
 
+		
+		
+		
         <div class="row no-bottom-margin">
 
+		<!--
+	<section class="col">
+		<p></p>
+	</section>
+
+	<section class="col mid">
+	-->
+		<h2><center>Our Vision of Disaster Response (Year 2020)</center></h2><p><center><iframe width="600" height="338" src="http://www.youtube.com/embed/-3gnPp97jD8" frameborder="0" allowfullscreen></iframe></center></p>
+	<!--</section>
+	<section class="col">
+		<p></p>
+	</section> -->
+        </div>
+
+ 
+
+		
+		
+        <div class="row no-bottom-margin">
+
+		
+		
+		
+		
+		
         <section class="col">
 		<h2>Hand</h2> <p> <iframe width="300" height="200" src="http://www.youtube.com/embed/9x4fnTmc6sw" frameborder="0" allowfullscreen></iframe> </p>
 	</section>
