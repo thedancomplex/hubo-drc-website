@@ -62,6 +62,7 @@
             <ul>
                 <li><a href="#main">Home</a></li>
 		<li><a href="multimedia.php">Multimedia</a></li>
+		<li><a href="http://dasl.mem.drexel.edu/drc-blog">Blog</a></li>
 <!--                <li><a href="#services">Services</a></li>-->
 <!--                <li><a href="#portfolio">Our Works</a></li>-->
 <!--                <li><a href="#about-us">About Us</a></li>-->
