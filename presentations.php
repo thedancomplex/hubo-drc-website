@@ -16,7 +16,7 @@
         <div class="row no-bottom-margin">
 
 	<section class="col">
-		<h2><center>DRC-Hubo Kickoff (PPT)</center></h2><p><a href="files/ppt/oh10-minPublicPresentation-101812.pptx"><img src="files/pix/DRC-Hubo_Kickoff.jpg" width="300" /></a></p>
+		<h2><center>DRC-Hubo Kickoff (PDF)</center></h2><p><a href="files/pdf/oh10-minPublicPresentation-101812-forWeb-012313.pdf"><img src="files/pix/DRC-Hubo_Kickoff.jpg" width="300" /></a></p>
 	</section>
 	<section class="col mid">
 		<p></p>
