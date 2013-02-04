@@ -13,9 +13,9 @@
 
     <title>DRC-HUBO Team</title>
 
-    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
-    <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" />
-    <link rel="stylesheet" href="css/jquery.fancybox-1.3.4.css" type="text/css" />
+    <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/nivo-slider.css" type="text/css" />
+    <link rel="stylesheet" href="/css/jquery.fancybox-1.3.4.css" type="text/css" />
 
     <!--[if lt IE 9]>
 	    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -60,9 +60,9 @@
 
         <nav>
             <ul>
-                <li><a href="index.php">Home</a></li>
-		<li><a href="multimedia.php">Multimedia</a></li>
-		<li><a href="presentations.php">Presentations</a></li>
+                <li><a href="/index.php">Home</a></li>
+		<li><a href="/multimedia.php">Multimedia</a></li>
+		<li><a href="/presentations.php">Presentations</a></li>
 <!--                <li><a href="#services">Services</a></li>-->
 <!--                <li><a href="#portfolio">Our Works</a></li>-->
 <!--                <li><a href="#about-us">About Us</a></li>-->
@@ -70,11 +70,11 @@
                 <li><a href="mailto:drchubo@gmail.com">Contact Us</a></li>
 <!--<li><span class="topSocial">Follow us: </span>&#160;</li>-->
 <li><a href="./">Follow Us:</a></li>
-<li><a title="Twitter" href="http://twitter.com/drchubo"><img style="MARGIN-BOTTOM: -5px" alt="twitter" src="images/social/Twitter_24_trans.png" border="0" /></a></li>
-<li><a title="Facebook" href="http://www.facebook.com/drc.hubo"><img style="MARGIN-BOTTOM: -5px" alt="facebook" src="images/social/Facebook_24_trans.png" border="0" /></a></li>
-<li><a title="Google+" href="https://plus.google.com/u/2/111230079342317358018/"><img style="MARGIN-BOTTOM: -5px" alt="Google+" src="images/social/google_plus_icon.png" border="0" /></a></li>
-<li><a title="YouTube" href="http://www.youtube.com/channel/UCTyw3FKm_fOtQt5QaWpBdAg"><img style="MARGIN-BOTTOM: -5px" alt="youtube" src="images/social/youtube_24_trans.png" border="0" /></a></li>
-<!--<li><a title="RSS" href="/Rss.aspx?Colid=24"><img style="MARGIN-BOTTOM: -5px" alt="RSS" src="images/social/rss_24_trans.png" border="0" /></a></li>-->
+<li><a title="Twitter" href="http://twitter.com/drchubo"><img style="MARGIN-BOTTOM: -5px" alt="twitter" src="/images/social/Twitter_24_trans.png" border="0" /></a></li>
+<li><a title="Facebook" href="http://www.facebook.com/drc.hubo"><img style="MARGIN-BOTTOM: -5px" alt="facebook" src="/images/social/Facebook_24_trans.png" border="0" /></a></li>
+<li><a title="Google+" href="https://plus.google.com/u/2/111230079342317358018/"><img style="MARGIN-BOTTOM: -5px" alt="Google+" src="/images/social/google_plus_icon.png" border="0" /></a></li>
+<li><a title="YouTube" href="http://www.youtube.com/channel/UCTyw3FKm_fOtQt5QaWpBdAg"><img style="MARGIN-BOTTOM: -5px" alt="youtube" src="/images/social/youtube_24_trans.png" border="0" /></a></li>
+<!--<li><a title="RSS" href="/Rss.aspx?Colid=24"><img style="MARGIN-BOTTOM: -5px" alt="RSS" src="/images/social/rss_24_trans.png" border="0" /></a></li>-->
 </ul>
 
 
