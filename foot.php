@@ -11,7 +11,7 @@
             <!-- <li class="rss-feed"><a href="#">RSS Feed</a></li> -->
         </ul>
 
-        <p class="footer-text">Copyright 2012 DRC-HUBO Team | <a href="http://www.Styleshout.com">PageOne</a></p>
+        <p class="footer-text">Copyright 2013 DRC-HUBO Team | <a href="http://www.Styleshout.com">PageOne</a></p>
     </div>
 
 

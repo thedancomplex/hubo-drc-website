@@ -54,7 +54,7 @@
     <header>
 
         <hgroup>
-            <h1><a href="index.html">Daniel M. Lofaro</a></h1>
+            <h1><a href="/">Daniel M. Lofaro</a></h1>
             <h3>DRC-HUBO Team Porthole</h3>
         </hgroup>
 
