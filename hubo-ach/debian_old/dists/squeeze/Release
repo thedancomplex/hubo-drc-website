@@ -1,0 +1,30 @@
+Origin: Daniel M. Lofaro <dan@danlofaro.com>
+Label: hubo
+Suite: stable
+Codename: squeeze
+Version: 3.0
+Date: Mon, 11 Feb 2013 01:17:33 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian squeeze
+MD5Sum:
+ e46bdf1e65438255ab0046218fa0ade8 1120 main/binary-i386/Packages
+ 1b2e6da6b894934accfddbf42fc244a9 541 main/binary-i386/Packages.gz
+ 701e910e4308e1b0973509fba8aa64b7 149 main/binary-i386/Release
+ a7ff556227bca9fb6eb39b04e6eab295 1124 main/binary-amd64/Packages
+ 238bb8c17842e4f91980fba407bbd1ec 543 main/binary-amd64/Packages.gz
+ 8a86b6a6c31fa1d7ec4abe2ed3808275 150 main/binary-amd64/Release
+SHA1:
+ 8010bc7433a99fa37a5ef0373bb8f7dbb87dd10d 1120 main/binary-i386/Packages
+ 0bad15a9ecbe0d27f8559466b8ed3c4cdd296001 541 main/binary-i386/Packages.gz
+ 0c77093d6f4139cb901d7a0d197e2ddad6e7d429 149 main/binary-i386/Release
+ f1b3c1423b5c641d976e1c3a79745a4f25040c0c 1124 main/binary-amd64/Packages
+ 6b6951e5cf145e85aabb0cabe54b261acb85b330 543 main/binary-amd64/Packages.gz
+ ad0f0e21bfbabc7aa0fc4ea2572f60573601edb0 150 main/binary-amd64/Release
+SHA256:
+ b8bf01fd36c5eaaf59596f9bbbe5ad38ac1869f2e3759f8b1aaa329a651a0411 1120 main/binary-i386/Packages
+ 82e323f33b76283c992f66f122529927df40f333f95af201d1ba850a234ff8df 541 main/binary-i386/Packages.gz
+ 84943424e8b3620c9240ef0d0d27ec3ad02f36429bd36ec15cf741861038b89d 149 main/binary-i386/Release
+ 50f71391388332c81910fb92e2abfe4dfad7491b5d4563544c0e8bd53eb23e02 1124 main/binary-amd64/Packages
+ 6d172ddeff05d821642315e0670465b71c437210ed16d9657bfef1fa971bd5ac 543 main/binary-amd64/Packages.gz
+ e6e07405dd5d42fbf23c075ea49f9aac96a1ac3b089e8585b1d1397fb70d1361 150 main/binary-amd64/Release

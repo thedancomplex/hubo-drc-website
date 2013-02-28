@@ -1,0 +1,39 @@
+Origin: Daniel M. Lofaro <dan@danlofaro.com>
+Label: hubo
+Suite: stable
+Codename: squeeze
+Version: 3.0
+Date: Sun, 24 Feb 2013 23:07:17 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian squeeze
+MD5Sum:
+ 9a9b08d62edabf119f62bf1ad60eb450 1225 main/binary-i386/Packages
+ a4d261981d1b6f60804cff014e024ed4 595 main/binary-i386/Packages.gz
+ 701e910e4308e1b0973509fba8aa64b7 149 main/binary-i386/Release
+ 05e3f7f8871e160cda94ac3713e0ab33 1229 main/binary-amd64/Packages
+ 6c583ccbcbea55831662c8eee58e6b05 595 main/binary-amd64/Packages.gz
+ 8a86b6a6c31fa1d7ec4abe2ed3808275 150 main/binary-amd64/Release
+ 101f3ba53c63920bd2b9c086691c7c18 1050 main/source/Sources
+ 42626801616ae67d45d6ab3ffe3f7378 562 main/source/Sources.gz
+ ae1bac74ba849599d3aa2e5022438c83 151 main/source/Release
+SHA1:
+ fce395cedc3d7f25e740af8d1ba1db827b0ae9a3 1225 main/binary-i386/Packages
+ 71645344d5ceef5365e71ba58f0ee4ab136b4972 595 main/binary-i386/Packages.gz
+ 0c77093d6f4139cb901d7a0d197e2ddad6e7d429 149 main/binary-i386/Release
+ 02825ea4efcfe9be0caf5d205a4c91dfdea1bbe6 1229 main/binary-amd64/Packages
+ 1502829e9a35bf47fb6acb95516cbb7bc6da9db2 595 main/binary-amd64/Packages.gz
+ ad0f0e21bfbabc7aa0fc4ea2572f60573601edb0 150 main/binary-amd64/Release
+ d6f2bd54b27d7470c1600bd8a2e569d0a54f1918 1050 main/source/Sources
+ 76db96050d5e6a97e32a3b40fab922bfb95123ae 562 main/source/Sources.gz
+ 12b5323f4c38be064c231f0fcd110803a577cc83 151 main/source/Release
+SHA256:
+ fe3e2d52f09df4c25cbca1988b55ad668b12f1f0ca89b9c8b6a8ad71ed57b834 1225 main/binary-i386/Packages
+ 2546875ee962edce1e61f2f1063fdfa74c94300ae4f3835388b72763fc0336af 595 main/binary-i386/Packages.gz
+ 84943424e8b3620c9240ef0d0d27ec3ad02f36429bd36ec15cf741861038b89d 149 main/binary-i386/Release
+ 45361fd0a7feac077f9a8316ab512043aaa52a797948a5d0e14cfe34da688e63 1229 main/binary-amd64/Packages
+ 691f5f6d3972bb7e09900b0048a1ee2ee7a664f7dd3a5a3c14b1912e04d546d2 595 main/binary-amd64/Packages.gz
+ e6e07405dd5d42fbf23c075ea49f9aac96a1ac3b089e8585b1d1397fb70d1361 150 main/binary-amd64/Release
+ e0d1deef2f58b2af23a60af1137da92f50c8a2eaf40568d9efd4ab701fd13077 1050 main/source/Sources
+ 21cee533448fd158f0389890e006d7d8cbcf6959e1206fa826d16186a8b7f7e5 562 main/source/Sources.gz
+ bd69d8413fdd6880b46d8a319a7dc07cf58a4eae049827268b547d97df63d4ad 151 main/source/Release

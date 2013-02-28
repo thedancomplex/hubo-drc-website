@@ -1,0 +1,35 @@
+Package: hubo-ach
+Version: 0.0.20130224
+Architecture: i386
+Maintainer: Danel M. Lofaro <dan@danlofaro.com>
+Installed-Size: 144
+Depends: libach1, libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), libreadline6 (>= 6.0), libstdc++6 (>= 4.1.1)
+Homepage: http://github.com/hubo/hubo-ach
+Priority: extra
+Section: libs
+Filename: pool/main/h/hubo-ach/hubo-ach_0.0.20130224_i386.deb
+Size: 42490
+SHA256: d53a23bb2f1bf33d535d591db0cb863e8b0b59538a18c3bc41632666d0d73894
+SHA1: f1f49fc1f2e53dce0cb4466e9ad5d8fca1fb2337
+MD5sum: ce22a803710e3c1609cd58c09a1df499
+Description: Low level controller programs for the Hubo 2 and Hubo 2+ platforms.
+ Daemons for hubo-ach.
+
+Package: hubo-ach-dev
+Source: hubo-ach
+Version: 0.0.20130224
+Architecture: i386
+Maintainer: Danel M. Lofaro <dan@danlofaro.com>
+Installed-Size: 54
+Depends: hubo-ach
+Homepage: http://github.com/hubo/hubo-ach
+Priority: extra
+Section: libs
+Filename: pool/main/h/hubo-ach/hubo-ach-dev_0.0.20130224_i386.deb
+Size: 8686
+SHA256: a428ff18129a04a6e8214a7fac930ef4ea74769d3ac6f590003a4a63944b5eb3
+SHA1: 19770b41a70c07fd94085255f4e984b3494c1974
+MD5sum: 72de9e090f92949dbd30658c1dc8d2f8
+Description: Low level controller headers for the Hubo 2 and Hubo 2+ platforms.
+ Header files for hubo-ach.
+

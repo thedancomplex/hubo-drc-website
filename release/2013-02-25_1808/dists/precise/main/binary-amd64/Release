@@ -1,0 +1,7 @@
+Archive: stable
+Version: 3.0
+Component: main
+Origin: Daniel M. Lofaro <dan@danlofaro.com>
+Label: hubo
+Architecture: amd64
+Description: Debian precise

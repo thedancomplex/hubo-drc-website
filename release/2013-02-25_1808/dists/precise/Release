@@ -1,0 +1,39 @@
+Origin: Daniel M. Lofaro <dan@danlofaro.com>
+Label: hubo
+Suite: stable
+Codename: precise
+Version: 3.0
+Date: Sat, 23 Feb 2013 23:28:52 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian precise
+MD5Sum:
+ 72392523469d7bf638f27e09201b5c61 1225 main/binary-i386/Packages
+ f6a0d5f50184fb32b7f2a764bcb1d13a 596 main/binary-i386/Packages.gz
+ 06a9d4a0d551c9fbb2f1ffe5055f4b3e 149 main/binary-i386/Release
+ 05e3f7f8871e160cda94ac3713e0ab33 1229 main/binary-amd64/Packages
+ 6c583ccbcbea55831662c8eee58e6b05 595 main/binary-amd64/Packages.gz
+ 199b5027e494579f72297e4d24305396 150 main/binary-amd64/Release
+ 101f3ba53c63920bd2b9c086691c7c18 1050 main/source/Sources
+ 42626801616ae67d45d6ab3ffe3f7378 562 main/source/Sources.gz
+ 1cf1ad09957baa5a4bb3e1231d967d83 151 main/source/Release
+SHA1:
+ 4077ee5403bf7ca469ec2421c5687d8149be1258 1225 main/binary-i386/Packages
+ 580399beb0ffba200b0b1c4563f617373600c194 596 main/binary-i386/Packages.gz
+ bcb9d5142deb2ceaad321d03e01bd9d24c908d8e 149 main/binary-i386/Release
+ 02825ea4efcfe9be0caf5d205a4c91dfdea1bbe6 1229 main/binary-amd64/Packages
+ 1502829e9a35bf47fb6acb95516cbb7bc6da9db2 595 main/binary-amd64/Packages.gz
+ 5def86977ea5ff15d3ee437ca6b4aeae9970ef58 150 main/binary-amd64/Release
+ d6f2bd54b27d7470c1600bd8a2e569d0a54f1918 1050 main/source/Sources
+ 76db96050d5e6a97e32a3b40fab922bfb95123ae 562 main/source/Sources.gz
+ 7f963bf94095f098858f380eb21bfab958dd52c1 151 main/source/Release
+SHA256:
+ ad3c4b1fa5b7b9052458033ed4169931cf4183806d564d1c87d38e9b8aabf195 1225 main/binary-i386/Packages
+ 50a1421164617f8849bfc8754af1b82a6b8c701f981ecc76ef392c7be221324b 596 main/binary-i386/Packages.gz
+ 5eebf3e24cf157c7d252be1dab10972ed17358e4f25e53e92a00dab59457df1d 149 main/binary-i386/Release
+ 45361fd0a7feac077f9a8316ab512043aaa52a797948a5d0e14cfe34da688e63 1229 main/binary-amd64/Packages
+ 691f5f6d3972bb7e09900b0048a1ee2ee7a664f7dd3a5a3c14b1912e04d546d2 595 main/binary-amd64/Packages.gz
+ 58db7d236d931dbdf6b4ab2368c16388ad12c4731ba1479e45db2aac81f28db4 150 main/binary-amd64/Release
+ e0d1deef2f58b2af23a60af1137da92f50c8a2eaf40568d9efd4ab701fd13077 1050 main/source/Sources
+ 21cee533448fd158f0389890e006d7d8cbcf6959e1206fa826d16186a8b7f7e5 562 main/source/Sources.gz
+ a4295415608bcc9a7d4c747f625a6fc725912b792e2927a9e8f16912e162ddac 151 main/source/Release

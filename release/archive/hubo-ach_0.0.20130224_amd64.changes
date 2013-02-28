@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 24 Feb 2013 18:04:00 -0400
+Source: hubo-ach
+Binary: hubo-ach hubo-ach-dev
+Architecture: source amd64
+Version: 0.0.20130224
+Distribution: stable
+Urgency: low
+Maintainer: Danel M. Lofaro <dan@danlofaro.com>
+Changed-By: Daniel M. Lofaro <dan@danlofaro.com>
+Description: 
+ hubo-ach   - Low level controller programs for the Hubo 2 and Hubo 2+ platform
+ hubo-ach-dev - Low level controller headers for the Hubo 2 and Hubo 2+ platforms
+Changes: 
+ hubo-ach (0.0.20130224) stable; urgency=low
+ .
+   * Added motor driver status update
+Checksums-Sha1: 
+ 5a7b954794fda25574e05ce64525b8b9bfc70094 754 hubo-ach_0.0.20130224.dsc
+ 83987d43956238a39f051f745748ed11d878d4dd 2946545 hubo-ach_0.0.20130224.tar.gz
+ e14a93b8adf19815fc3690edeb03e8469c06ef24 43434 hubo-ach_0.0.20130224_amd64.deb
+ fe489bb470c2501a7b4c3472058cc7042b5278fb 8680 hubo-ach-dev_0.0.20130224_amd64.deb
+Checksums-Sha256: 
+ 77c871edaba1b244b013873cdcb8f5294607b3a859d9274b16efb08014132be3 754 hubo-ach_0.0.20130224.dsc
+ 88d03011630be9378ebd2b4faa319d167a4ed7b3d9c1761daaad1885ccfc8472 2946545 hubo-ach_0.0.20130224.tar.gz
+ 2a8dcfe0e0ae9d56e3a380ebb7c136d5a582dcd7567b91946814bd4f13ed2829 43434 hubo-ach_0.0.20130224_amd64.deb
+ 8b9f48f95a0bcf21a79fb5a77597b40fb3be7a562e763afd971c04b69dbc2e49 8680 hubo-ach-dev_0.0.20130224_amd64.deb
+Files: 
+ 5d7065f6d23f633a2006e15291bcfeef 754 libs extra hubo-ach_0.0.20130224.dsc
+ 78e2d625240995af759263021cf309b4 2946545 libs extra hubo-ach_0.0.20130224.tar.gz
+ 46d9d51abe439a442c39385dc29cb572 43434 libs extra hubo-ach_0.0.20130224_amd64.deb
+ 09e6de0e866155e7676bdd29a6f4c448 8680 libs extra hubo-ach-dev_0.0.20130224_amd64.deb

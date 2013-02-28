@@ -1,0 +1,19 @@
+Origin: Daniel M. Lofaro <dan@danlofaro.com>
+Label: hubo
+Suite: stable
+Codename: squeeze
+Version: 3.0
+Architectures: i386 amd64 source
+Components: main
+Description: Debian squeeze
+#Update: debian
+
+Origin: Daniel M. Lofaro <dan@danlofaro.com>
+Label: hubo
+Suite: stable
+Codename: precise
+Version: 3.0
+Architectures: i386 amd64 source
+Components: main
+Description: Debian precise
+#Update: debian

@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 20 Feb 2013 16:23:00 -0400
+Source: hubo-ach
+Binary: hubo-ach hubo-ach-dev
+Architecture: source amd64
+Version: 0.0.20130220
+Distribution: stable
+Urgency: low
+Maintainer: Danel M. Lofaro <dan@danlofaro.com>
+Changed-By: Daniel M. Lofaro <dan@danlofaro.com>
+Description: 
+ hubo-ach   - Low level controller programs for the Hubo 2 and Hubo 2+ platform
+ hubo-ach-dev - Low level controller headers for the Hubo 2 and Hubo 2+ platforms
+Changes: 
+ hubo-ach (0.0.20130220) stable; urgency=low
+ .
+   * Fixed hubo-ach-dev include errors in deb file - thanks saulrh
+Checksums-Sha1: 
+ 4cdb2665577cef4a09b0d92352cd65f96ffc65f2 754 hubo-ach_0.0.20130220.dsc
+ 971a0d6f40ec66cc0dcddd2a2a648b45e2296805 2092205 hubo-ach_0.0.20130220.tar.gz
+ 9c2277c7a5f3521375c42bc3a416623f11f80b36 43398 hubo-ach_0.0.20130220_amd64.deb
+ f7e3202a8db3f037a2634de177aea13116b7e715 8412 hubo-ach-dev_0.0.20130220_amd64.deb
+Checksums-Sha256: 
+ c1ad015c0a169243fc935f34f61b71f46cbc6b0c8ea233cdc3e92e6bf2ba5975 754 hubo-ach_0.0.20130220.dsc
+ bac2e0d9d778456f44040392a6a07901a0a3d79c3a70830284e87bc9cd21aca8 2092205 hubo-ach_0.0.20130220.tar.gz
+ bfbfc1e36693911495db9538f188d38dc3194cffe92dd7a432f589fc3993033e 43398 hubo-ach_0.0.20130220_amd64.deb
+ 8c6cc9cf07417121b4db54a0e92b098971bf66abfc55d5c3afdc55bf7a7a9421 8412 hubo-ach-dev_0.0.20130220_amd64.deb
+Files: 
+ e3e2651cb3edd9fec1427a3f8d5aa65e 754 libs extra hubo-ach_0.0.20130220.dsc
+ d6c19731ec86e29fc1b1d921d242cca4 2092205 libs extra hubo-ach_0.0.20130220.tar.gz
+ f56bd037c5777b41b2f7009485cffe64 43398 libs extra hubo-ach_0.0.20130220_amd64.deb
+ 0ac3e6bc2d01a9fa7325cd42d01ee703 8412 libs extra hubo-ach-dev_0.0.20130220_amd64.deb

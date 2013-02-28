@@ -61,6 +61,7 @@
         <nav>
             <ul>
                 <li><a href="/index.php">Home</a></li>
+		<li><a href="http://blog.drc-hubo.com/">Blog</a></li>
 		<li><a href="/multimedia.php">Multimedia</a></li>
 		<li><a href="/presentations.php">Presentations</a></li>
 <!--                <li><a href="#services">Services</a></li>-->

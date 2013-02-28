@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 23 Feb 2013 18:05:00 -0400
+Source: hubo-ach
+Binary: hubo-ach hubo-ach-dev
+Architecture: source i386
+Version: 0.0.20130223
+Distribution: stable
+Urgency: low
+Maintainer: Danel M. Lofaro <dan@danlofaro.com>
+Changed-By: Daniel M. Lofaro <dan@danlofaro.com>
+Description: 
+ hubo-ach   - Low level controller programs for the Hubo 2 and Hubo 2+ platform
+ hubo-ach-dev - Low level controller headers for the Hubo 2 and Hubo 2+ platforms
+Changes: 
+ hubo-ach (0.0.20130223) stable; urgency=low
+ .
+   * added typedef to the hubo.h to work better with c++
+Checksums-Sha1: 
+ 60e5f3adb19708f7d9cad055662c3256aa70b131 754 hubo-ach_0.0.20130223.dsc
+ 3fe26ba7fa921c0589ac4eae7254ff584595d958 2097117 hubo-ach_0.0.20130223.tar.gz
+ 6f2f7674319b691a2f211d5bdd5f79aba262d687 42374 hubo-ach_0.0.20130223_i386.deb
+ 7d2cfab701f9a9a39cb37d5e2d921cbe33647d47 8644 hubo-ach-dev_0.0.20130223_i386.deb
+Checksums-Sha256: 
+ 94831534ee49dc81ec16f05c3017185f17cc8f7e9252c8e2fe3d04436076dd5a 754 hubo-ach_0.0.20130223.dsc
+ 78babc7ad8822b8d230abc6db9c7dff6740b7c64cf448fcd05be0c600fed7ec8 2097117 hubo-ach_0.0.20130223.tar.gz
+ 59ef61581fa58596b487c5ab3dfe1f7909fb9a3da2269aeb03de63597460a83b 42374 hubo-ach_0.0.20130223_i386.deb
+ 87101aa656dbbd84c4d976a7d7360028eeebf097067a0addd1356cd2829fbe6f 8644 hubo-ach-dev_0.0.20130223_i386.deb
+Files: 
+ 6a5c2d2c95dce82713cb15eeedc1acab 754 libs extra hubo-ach_0.0.20130223.dsc
+ 3211672895890d84e6df75e8486ae4f8 2097117 libs extra hubo-ach_0.0.20130223.tar.gz
+ 9ca06a095aa54ce88a9e97c447d8a4ed 42374 libs extra hubo-ach_0.0.20130223_i386.deb
+ 11dcdef23c9c55cbdc98724060846322 8644 libs extra hubo-ach-dev_0.0.20130223_i386.deb

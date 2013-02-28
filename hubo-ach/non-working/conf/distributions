@@ -1,0 +1,19 @@
+Origin: Daniel M. Lofaro <dan@danlofaro.com>
+Label: DRC-Hubo
+Codename: precise
+Architectures: i386 amd64
+Components: BSD
+Description: DRC-Hubo APT Repository
+SignWith: yes
+DebOverride: override.precise
+DscOverride: override.precise
+
+Origin: Daniel M. Lofaro <dan@danlofaro.com>
+Label: DRC-Hubo
+Codename: squeeze
+Architectures: i386 amd64
+Components: BSD
+Description: DRC-Hubo APT Repository
+SignWith: yes
+DebOverride: override.squeeze
+DscOverride: override.squeeze

@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 03 Feb 2013 19:58:00 -0400
+Source: hubo-ach
+Binary: hubo-ach hubo-ach-dev
+Architecture: source amd64
+Version: 0.0.20130203
+Distribution: unstable
+Urgency: low
+Maintainer: Danel M. Lofaro <dan@danlofaro.com>
+Changed-By: Neil Dantam <ntd@gatech.edu>
+Description: 
+ hubo-ach   - Low level controller programs for the Hubo 2 and Hubo 2+ platform
+ hubo-ach-dev - Low level controller headers for the Hubo 2 and Hubo 2+ platforms
+Changes: 
+ hubo-ach (0.0.20130203) unstable; urgency=low
+ .
+   * Initial Release. Local package.
+Checksums-Sha1: 
+ 4ecf4cd2f261b3ea4b3c2e8242aa5cb27f3ef9c4 754 hubo-ach_0.0.20130203.dsc
+ f3d1e4ee53ab43869d2a98eefd7e51f1d1b2729f 2091370 hubo-ach_0.0.20130203.tar.gz
+ 14a771b8b83fd3e1b9f9ec3a1eef7460b1b23cbf 4136 hubo-ach_0.0.20130203_amd64.deb
+ 95b11c99aaecb1c618f33288a71f13c1fe5970a2 8224 hubo-ach-dev_0.0.20130203_amd64.deb
+Checksums-Sha256: 
+ c7990bd66a492c247eac3e3dace942610dcd959cd85f400263395d51da2dd274 754 hubo-ach_0.0.20130203.dsc
+ dfb2f156ddb995f2bcd00b8b101792dfafc924308cdf423412e26fe55c74a907 2091370 hubo-ach_0.0.20130203.tar.gz
+ aa0e1bf4e302a0db7cebb7ad1e76a7e99f8a1cab109d5047ff24668b631236c3 4136 hubo-ach_0.0.20130203_amd64.deb
+ 0d4a5b722d1b9591679700d74093aa1050d90778d6274aa46bfb5d967a4cb474 8224 hubo-ach-dev_0.0.20130203_amd64.deb
+Files: 
+ a71b4f943162b7fc3f9f6afd401d13f3 754 libs extra hubo-ach_0.0.20130203.dsc
+ 4f4a193ecfed6a26c9a4c3da4037f81a 2091370 libs extra hubo-ach_0.0.20130203.tar.gz
+ 862b9d8d201ba07796fe3040721dfc2b 4136 libs extra hubo-ach_0.0.20130203_amd64.deb
+ 990d5fe5e516b808afcc96d8e272182d 8224 libs extra hubo-ach-dev_0.0.20130203_amd64.deb
