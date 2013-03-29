@@ -3,37 +3,37 @@ Label: hubo
 Suite: stable
 Codename: squeeze
 Version: 3.0
-Date: Thu, 28 Feb 2013 19:23:40 UTC
+Date: Fri, 29 Mar 2013 05:38:10 UTC
 Architectures: i386 amd64
 Components: main
 Description: Debian squeeze
 MD5Sum:
- 9a9b08d62edabf119f62bf1ad60eb450 1225 main/binary-i386/Packages
- a4d261981d1b6f60804cff014e024ed4 595 main/binary-i386/Packages.gz
+ 9c13851c901fb89834cbcf399bf2a374 1225 main/binary-i386/Packages
+ 89cedc8108e7523b298f282b8af719b0 596 main/binary-i386/Packages.gz
  701e910e4308e1b0973509fba8aa64b7 149 main/binary-i386/Release
- a8ac0c4c4be444c20c8da4e48c20ef7b 1229 main/binary-amd64/Packages
- ba97ebcae566f42ca15d4fa214e24f31 596 main/binary-amd64/Packages.gz
+ b1d2ba08d68c8bf96ce84e826b9f39dc 1229 main/binary-amd64/Packages
+ 8cf0deed74614a6bbf399a306339a9d8 594 main/binary-amd64/Packages.gz
  8a86b6a6c31fa1d7ec4abe2ed3808275 150 main/binary-amd64/Release
- b205eed12895df85d2d29e2ade038aaa 1050 main/source/Sources
- aa4ccefe1f30910f8bfec3d87db35b65 563 main/source/Sources.gz
+ 8273217cc2da99a8ef151caa984cdb89 1050 main/source/Sources
+ 283fae6606a6e85668c94e08f2299a48 562 main/source/Sources.gz
  ae1bac74ba849599d3aa2e5022438c83 151 main/source/Release
 SHA1:
- fce395cedc3d7f25e740af8d1ba1db827b0ae9a3 1225 main/binary-i386/Packages
- 71645344d5ceef5365e71ba58f0ee4ab136b4972 595 main/binary-i386/Packages.gz
+ ef7f8639e1873407855b44db96cd783dd270387c 1225 main/binary-i386/Packages
+ 85d7139164414fdb881753aa6aa6d0e0917ab451 596 main/binary-i386/Packages.gz
  0c77093d6f4139cb901d7a0d197e2ddad6e7d429 149 main/binary-i386/Release
- ee68938a9c8e2de18b007f2d5c80593e2b7f9f0d 1229 main/binary-amd64/Packages
- adb9baf167196d19af5fadc38b4c2f60d3c7bdb6 596 main/binary-amd64/Packages.gz
+ 886dcab49a0be70815478873692e0a5feb8c01f4 1229 main/binary-amd64/Packages
+ 86ddd0672b3b82d00b1be934898bdafbffbc7f69 594 main/binary-amd64/Packages.gz
  ad0f0e21bfbabc7aa0fc4ea2572f60573601edb0 150 main/binary-amd64/Release
- ff007b5f3b7c341af180c41571e44b6eb07fe6f9 1050 main/source/Sources
- 2575ae24235c0ed90a0870cfbe017868ab835546 563 main/source/Sources.gz
+ 308a3d80d736f09900abedbaf3aee10b96970a71 1050 main/source/Sources
+ 779b91e5d767d4d62db1075507a7fca425b5f557 562 main/source/Sources.gz
  12b5323f4c38be064c231f0fcd110803a577cc83 151 main/source/Release
 SHA256:
- fe3e2d52f09df4c25cbca1988b55ad668b12f1f0ca89b9c8b6a8ad71ed57b834 1225 main/binary-i386/Packages
- 2546875ee962edce1e61f2f1063fdfa74c94300ae4f3835388b72763fc0336af 595 main/binary-i386/Packages.gz
+ d43d7559165ae2d480c6fdb7aa3a65af431d19348fcec932fa045053d8d3856f 1225 main/binary-i386/Packages
+ fe2c2f097fdcb0c3e42aa5a81d0b01c8ca5a401b30236cbc82a641c246fae577 596 main/binary-i386/Packages.gz
  84943424e8b3620c9240ef0d0d27ec3ad02f36429bd36ec15cf741861038b89d 149 main/binary-i386/Release
- 704284befa37be58e00a99a3924ce3943ba430a2bb6dc4e8f53a3e8ffc883ea2 1229 main/binary-amd64/Packages
- 850c3aa9710af4889010a2233700dec142cedd071f429ff30397b50fbd5c1502 596 main/binary-amd64/Packages.gz
+ fb52c9d1b5ff81c42d42a30cc6ce1707238bac1001c977755e57bbd421002650 1229 main/binary-amd64/Packages
+ b02dd6cb1ba00c2566837bc7e168a2b3f91709901c4ded8c8359daffa49abcf4 594 main/binary-amd64/Packages.gz
  e6e07405dd5d42fbf23c075ea49f9aac96a1ac3b089e8585b1d1397fb70d1361 150 main/binary-amd64/Release
- c2604e39b912519f055528eb459ede7a300ea63b33928412e91fb74ed1248c07 1050 main/source/Sources
- 293593ccd158526bead882abb64ebc6b85255f979c9cc13066a1a28517f0eb7d 563 main/source/Sources.gz
+ a7bf25f66dca948429a59b03663046054959dc195a175edc4e4da0f14454a970 1050 main/source/Sources
+ acde74a1331283d2c691037569a71a0e93e2af8ee47b37ebc6896e5cdc46d575 562 main/source/Sources.gz
  bd69d8413fdd6880b46d8a319a7dc07cf58a4eae049827268b547d97df63d4ad 151 main/source/Release

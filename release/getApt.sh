@@ -1,1 +1,2 @@
-scp hubo@192.168.0.24:~/hubo* ./archive
+scp geovana@192.168.0.25:~/projects/hubo-ach-build/* ./archive
+cp ~/projects/hubo-ach-build/* ./archive
